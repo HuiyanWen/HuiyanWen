@@ -1,4 +1,4 @@
-### Hi, I'm Huiyan Wen👋
+### Hi, I'm Burning👋
 
 - 🔭 I’m currently a postgraduate student of Harbin Institute of Technology
 - 🔩 I will work at Kuaishou, focusing on recommender systems
