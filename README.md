@@ -1,4 +1,4 @@
-### Hi, I'm Huiyan(Burning) Wen👋
+### Hi, I'm Huiyan Wen👋
 
 - 🔩 I'm working at Tencent AI Platform Department, focusing on game AI
 - ⚡ RL, ML, DL / Python / C++ / GO / TensorFlow / PyTorch / Caffe / MindSpore
